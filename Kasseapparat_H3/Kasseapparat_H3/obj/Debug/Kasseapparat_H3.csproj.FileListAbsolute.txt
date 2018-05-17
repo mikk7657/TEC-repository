@@ -1,0 +1,7 @@
+C:\Users\Tec\source\repos\Kasseapparat_H3\Kasseapparat_H3\bin\Debug\Kasseapparat_H3.exe.config
+C:\Users\Tec\source\repos\Kasseapparat_H3\Kasseapparat_H3\bin\Debug\Kasseapparat_H3.exe
+C:\Users\Tec\source\repos\Kasseapparat_H3\Kasseapparat_H3\bin\Debug\Kasseapparat_H3.pdb
+C:\Users\Tec\source\repos\Kasseapparat_H3\Kasseapparat_H3\obj\Debug\Kasseapparat_H3.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\Kasseapparat_H3\Kasseapparat_H3\obj\Debug\Kasseapparat_H3.exe
+C:\Users\Tec\source\repos\Kasseapparat_H3\Kasseapparat_H3\obj\Debug\Kasseapparat_H3.pdb
+C:\Users\Tec\source\repos\Kasseapparat_H3\Kasseapparat_H3\obj\Debug\Kasseapparat_H3.csprojResolveAssemblyReference.cache
